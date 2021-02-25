@@ -82,3 +82,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://violet-hedgehog-77f7a.netlify.app'
